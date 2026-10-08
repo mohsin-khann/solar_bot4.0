@@ -1,0 +1,11 @@
+openai
+httpx==0.27.0
+python-dotenv
+fastapi
+uvicorn
+gunicorn
+geopy
+pandas
+requests
+groq
+google-generativeai
